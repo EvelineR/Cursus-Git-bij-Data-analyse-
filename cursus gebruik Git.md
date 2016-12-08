@@ -3,7 +3,10 @@
 Auteur: Carine Derkoningen  
 Ondersteuning: Kris Hermans  
 Nagelezen door: Carina Medats  
-
+Cursus-Git-bij-Data-analyse-/3areas.png
+Cursus-Git-bij-Data-analyse-/3areas.png
+Cursus-Git-bij-Data-analyse-/3areas.png
+Cursus-Git-bij-Data-analyse-/3areas.png
 ## Introductie  
 
 Wij gaan eerst lokaal leren werken met Git, om dan ons project in GitHub te plaatsen. Voorlopig gaan we ook enkel met de masterbranche werken. Als je later GitHub gaat gebruiken om je code project in onder te brengen is het beter dat je met meerdere branches gaat werken.  

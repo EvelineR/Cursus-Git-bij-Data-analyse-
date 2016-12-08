@@ -25,6 +25,9 @@ git init
 git config --global user.name “naam”
 git config --global user.email jouwEmailadres
 ```
+Cursus-Git-bij-Data-analyse-/3areas.png
+Cursus-Git-bij-Data-analyse-/3areas.png
+Cursus-Git-bij-Data-analyse-/3areas.png
 
 ### Gebruik:
 

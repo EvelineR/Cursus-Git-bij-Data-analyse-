@@ -3,9 +3,12 @@
 Auteur: Carine Derkoningen  
 Ondersteuning: Kris Hermans  
 Nagelezen door: Carina Medats  
-Cursus-Git-bij-Data-analyse-/3areas.png
-Cursus-Git-bij-Data-analyse-/3areas.png
-Cursus-Git-bij-Data-analyse-/3areas.png
+Cursus-Git-bij-Data-analyse-/3areas.png  
+
+Cursus-Git-bij-Data-analyse-/3areas.png  
+
+Cursus-Git-bij-Data-analyse-/3areas.png  
+
 Cursus-Git-bij-Data-analyse-/3areas.png
 ## Introductie  
 
